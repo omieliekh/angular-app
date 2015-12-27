@@ -1,0 +1,19 @@
+@slide-border: #888;
+@slide-bg: #eff8ff;
+
+.red-text{
+  color: red;
+}
+
+.slide-item{
+  width: 100px;
+  height: 100px;
+  border: 1px solid @slide-border;
+  float: left;
+  background-color: @slide-bg;
+  margin: 0 10px 10px 0;
+
+  background-size: contain;
+
+  .clickable();
+}

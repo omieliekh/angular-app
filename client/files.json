@@ -1,0 +1,14 @@
+[
+  "app/app.js",
+  "app/app-config.js",
+
+  "app/modules/module1/module1.js",
+  "app/modules/module1/module1-config.js",
+  "app/modules/module1/module1-service.js",
+
+  "app/modules/module2/module2.js",
+
+  "app/modules/slide/slide.js",
+  "app/modules/slide/slide-config.js",
+  "app/modules/slide/slide-service.js"
+]
